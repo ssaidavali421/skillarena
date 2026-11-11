@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.skillarena.skillarena.SkillarenaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.56 s -- in com.skillarena.skillarena.SkillarenaApplicationTests
